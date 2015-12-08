@@ -1,0 +1,4 @@
+See file:///D:/Android/AndroidStudioProjects/NativePlasma/app/build/tmp/linkArmeabi-v7aDebugArm7Native-plasmaSharedLibrary/output.txt for all output for linkArmeabi-v7aDebugArm7Native-plasmaSharedLibrary.
+linking libnative-plasma.so successful.
+
+Finished linkArmeabi-v7aDebugArm7Native-plasmaSharedLibrary, see full log file:///D:/Android/AndroidStudioProjects/NativePlasma/app/build/tmp/linkArmeabi-v7aDebugArm7Native-plasmaSharedLibrary/output.txt.

@@ -1,0 +1,6 @@
+See file:///D:/Android/AndroidStudioProjects/NativePlasma/app/build/tmp/compileArmeabi-v7aDebugArm7Native-plasmaSharedLibraryNative-plasmaMainC/output.txt for all output for compileArmeabi-v7aDebugArm7Native-plasmaSharedLibraryNative-plasmaMainC.
+compiling plasma.c successful.
+
+compiling android_native_app_glue.c successful.
+
+Finished compileArmeabi-v7aDebugArm7Native-plasmaSharedLibraryNative-plasmaMainC, see full log file:///D:/Android/AndroidStudioProjects/NativePlasma/app/build/tmp/compileArmeabi-v7aDebugArm7Native-plasmaSharedLibraryNative-plasmaMainC/output.txt.
